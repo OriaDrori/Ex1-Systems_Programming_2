@@ -1,4 +1,4 @@
-# Graph Algorithms Project
+# Ex1 Project
 
 ## Overview
 
