@@ -1,4 +1,4 @@
-# Ex1 Project
+# Ex1
 
 ## Overview
 
